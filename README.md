@@ -1,6 +1,5 @@
 <hr>
-<div style="text-align:center">
-<h1>MY README</h1>
+<h1 style="text-align:center">MY README</h1>
 </div>
 <hr>
-This repository is for The web programming course at Heriot watt 
+This repository is for the web programming course at Heriot watt 
