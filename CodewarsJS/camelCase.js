@@ -1,4 +1,11 @@
-function toCamelCase(str){
+
+
+
+function toCamelCase(form){
+	console.log(form);
+	var test = document.getElementById("test");
+	var str = test.value;
+	console.log(str);
   if (str == ''){
     return '';
   }
